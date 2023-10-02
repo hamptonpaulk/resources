@@ -1,0 +1,491 @@
+You are a tutor administering a multiple choice quiz - below you will find a list of questions, correct answers, and distractors - do the following: 
+- randomly select 20 questions to ask
+- ask a question and give the options in random order
+- allow the user to respond 
+- if the answer is correct, congratulate them and move on to the next question
+- if the answer is incorrect, give them the correct answer and provide context for a general audience
+- when all selected questions are answered, give a score of correct answers out of 20
+
+--- below is the data ---
+
+#### What's the term often used to describe AI technologies that create new forms of content like text or images?
+- **Correct Answer**: Generative AI
+- Distractor 1: Deep Learning
+- Distractor 2: Neural Networks
+- Distractor 3: Machine Learning
+
+---
+
+#### Why is it challenging to pin down a concrete definition of artificial intelligence (AI)?
+- **Correct Answer**: The criteria for what is considered "intelligent" in machines is continually evolving.
+- Distractor 1: The terms "artificial" and "intelligence" are too intricate on their own.
+- Distractor 2: Lack of sufficient knowledge about AI makes defining it difficult.
+- Distractor 3: AI is too new and not well understood to be considered a legitimate field.
+
+---
+
+#### What do people call the phenomenon where a technology becomes so commonplace that it's no longer termed as AI?
+- **Correct Answer**: The AI Effect
+- Distractor 1: Tech Shift
+- Distractor 2: Adoption Skew
+- Distractor 3: Usability Paradox
+
+---
+
+#### What activities were originally believed to be too complex for computers without them possessing true intelligence?
+- **Correct Answer**: Mastering chess, facial recognition, and understanding vocal commands
+- Distractor 1: Conducting advanced math, weather simulation, and large data analysis
+- Distractor 2: Emulating human emotions, creating art, and future prediction
+- Distractor 3: Managing robotic actions, natural language processing, and search algorithm optimization
+
+---
+
+#### What is another name for Artificial General Intelligence (AGI)?
+- **Correct Answer**: Strong AI
+- Distractor 1: Limited AI
+- Distractor 2: Specialized AI
+- Distractor 3: Comprehensive AI
+
+---
+
+#### What kind of AI specializes in performing specific tasks repeatedly?
+- **Correct Answer**: Narrow AI
+- Distractor 1: Robust AI
+- Distractor 2: Universal AI
+- Distractor 3: Complete AI
+
+---
+
+#### How is a machine learning model typically trained to identify spam emails?
+- **Correct Answer**: By using a large set of spam and non-spam emails for training
+- Distractor 1: Through complex algorithms analyzing the email subject
+- Distractor 2: By using serverless functions that screen for spam keywords
+- Distractor 3: Via a backend server sorting emails into various categories
+
+---
+
+#### What's generally one of the initial steps in developing a machine learning program?
+- **Correct Answer**: Data collection and cleaning
+- Distractor 1: Machine assembly
+- Distractor 2: Cost-efficiency analysis
+- Distractor 3: Algorithm design
+
+---
+
+#### What's the purpose of using classification in machine learning applications?
+- **Correct Answer**: To classify or tag incoming data
+- Distractor 1: To predict a numerical outcome
+- Distractor 2: To label outgoing data
+- Distractor 3: To estimate the volume of required data
+
+---
+
+#### What is machine learning in the context of artificial intelligence?
+- **Correct Answer**: A subset of AI focused on training programs using data
+- Distractor 1: A rival to AI technology
+- Distractor 2: Software that adheres to a predetermined rule set
+- Distractor 3: A robotic learning system
+
+---
+
+#### Why is machine learning commonly used?
+- **Correct Answer**: For classification and regression tasks
+- Distractor 1: To manage computational downtime and regression
+- Distractor 2: For classification and managing computational downtime
+- Distractor 3: For regression and managing unethical AI behavior
+
+---
+
+#### What is characteristic of a regression algorithm?
+- **Correct Answer**: It aims to predict a numerical value
+- Distractor 1: It aims to predict subjective outcomes
+- Distractor 2: It seeks to classify incoming data
+- Distractor 3: It aims to label incoming data
+
+---
+
+#### How do machine learning frameworks assist businesses?
+- **Correct Answer**: They expedite the process by allowing the use of pre-existing algorithms with custom data
+- Distractor 1: They offer a web interface for data manipulation
+- Distractor 2: They enable the creation of algorithms from scratch
+- Distractor 3: They make data understandable to laypeople
+
+---
+
+#### What's a way for organizations to bypass the need to write their own machine learning algorithms?
+- **Correct Answer**: Utilizing machine learning frameworks
+- Distractor 1: Outsourcing algorithm development
+- Distractor 2: Using multiple computers
+- Distractor 3: Adopting non-AI technologies
+
+---
+
+#### Who typically prepares the data for machine learning algorithms in a company starting an ML project?
+- **Correct Answer**: Data Scientist
+- Distractor 1: Software Developer
+- Distractor 2: Quality Analyst
+- Distractor 3: Product Lead
+
+---
+
+#### What is a critical action when employing a machine learning algorithm?
+- **Correct Answer**: Preprocessing and filtering the data prior to algorithmic analysis
+- Distractor 1: Post-processing the data after algorithm creation
+- Distractor 2: Feeding all available data into the algorithm at once
+- Distractor 3: Periodic data review during algorithm development
+
+---
+
+#### What does deep learning fall under?
+- **Correct Answer**: Machine Learning
+- Distractor 1: Computer Science Fundamentals
+- Distractor 2: Regression Models
+- Distractor 3: Classification Models
+
+---
+
+#### What are the algorithms used in deep learning typically called?
+- **Correct Answer**: Artificial Neural Networks
+- Distractor 1: Cognitive Nodes
+- Distractor 2: Synthetic Nodes
+- Distractor 3: Neuron Synapses
+
+---
+
+#### Which AI subfield is commonly employed for speech recognition technologies?
+- **Correct Answer**: Deep Learning
+- Distractor 1: OpenAI Technologies
+- Distractor 2: Tensor Frameworks
+- Distractor 3: Conceptual Mapping
+
+---
+
+#### What makes image recognition, voice recognition, and advanced gameplay possible in AI?
+- **Correct Answer**: Deep Learning
+- Distractor 1: Natural Language Comprehension
+- Distractor 2: Artificial General Intelligence
+- Distractor 3: Rule-based Systems
+
+---
+
+#### What is a drawback of utilizing deep learning?
+- **Correct Answer**: High computational demands and extended training time
+- Distractor 1: Requires an extensive initial dataset
+- Distractor 2: Model development is quick and easy
+- Distractor 3: Consumes excessive network bandwidth
+
+---
+
+#### What does the abbreviation NLP signify?
+- **Correct Answer**: Natural Language Processing
+- Distractor 1: Normative Lexical Protocol
+- Distractor 2: Neural Lobe Processing
+- Distractor 3: Noted Linguistic Practices
+
+---
+
+#### What is the core focus of natural language processing (NLP)?
+- **Correct Answer**: Understanding and recognizing human communication methods
+- Distractor 1: Text translation across languages
+- Distractor 2: Algorithm
+
+ creation for business applications
+- Distractor 3: Facilitating language learning for humans
+
+---
+
+#### How can natural language understanding (NLU) assist in sorting customer reviews for a business?
+- **Correct Answer**: By discerning the tone and language style of comments
+- Distractor 1: By assigning numerical ratings to comments
+- Distractor 2: By distinguishing between human and bot-generated comments
+- Distractor 3: By auto-responding to customer comments
+
+---
+
+#### What characterizes large language models used in text-generating AI?
+- **Correct Answer**: They train on massive text datasets to produce human-like textual output
+- Distractor 1: They rely mainly on image data to produce textual content
+- Distractor 2: They are cheaper to train compared to other types of AI models
+- Distractor 3: They use neural networks but not deep learning methodologies
+
+---
+
+#### What's a notable example of AI designed to generate images based on textual cues?
+- **Correct Answer**: Dall-E
+- Distractor 1: TextGPT
+- Distractor 2: Lyricist
+- Distractor 3: Bing Image Search
+
+---
+
+#### What's the term used for generative AI models that can produce content across multiple formats like images and videos?
+- **Correct Answer**: Foundation Models
+- Distractor 1: Large Text Models
+- Distractor 2: Neuronal Models
+- Distractor 3: Deep Generative Models
+
+---
+
+#### In generative AI, what does "prompt engineering" refer to?
+- **Correct Answer**: Crafting structured and thought-out prompts to achieve specific outcomes from AI
+- Distractor 1: Developing new algorithms to improve prompt quality
+- Distractor 2: Innovating prompts to boost AI creativity and intelligence
+- Distractor 3: Designing user interfaces for better interaction with generative AI
+
+---
+
+#### How can you elicit more creative outputs from generative AI?
+- **Correct Answer**: Specify instructions about the target audience, tone, length, and persona in the prompt
+- Distractor 1: Use cutting-edge algorithms to improve AI creativity
+- Distractor 2: Engage the AI in a repetitive and unimaginative manner
+- Distractor 3: Reduce the level of structure and formality in interactions with the AI
+
+---
+
+#### How do the creativity and specificity of prompts influence the results from generative AI?
+- **Correct Answer**: More creative and specific prompts yield more tailored and creative content
+- Distractor 1: Creativity and specificity have negligible impact on output quality
+- Distractor 2: Creative prompts make AI smarter, while specific prompts make output more accurate
+- Distractor 3: Creativity and specificity lead to more predictable outcomes from AI
+
+---
+
+#### How are generative AI and text messaging autocomplete features alike?
+- **Correct Answer**: Both offer suggestions based on statistical probability and past data
+- Distractor 1: Both require deep understanding of user sentiment
+- Distractor 2: Both generate content by scrutinizing millions of text messages
+- Distractor 3: Both can produce completely incorrect suggestions despite high likelihood
+
+---
+
+#### Why do generative AI models sometimes produce seemingly plausible but incorrect outputs?
+- **Correct Answer**: They lack contextual understanding and discernment between truth and falsehood
+- Distractor 1: They work on statistical likelihoods but lack genuine understanding
+- Distractor 2: They are prone to random errors or fabrications
+- Distractor 3: They struggle with pattern matching and new combinations
+
+---
+
+#### What are some risks associated with using generative AI?
+- **Correct Answer**: Dissemination of false information, data privacy issues, and questions about content ownership
+- Distractor 1: Cognitive fatigue, data overload, and bias in decision-making
+- Distractor 2: Legal ramifications, user experience issues, and technological progress
+- Distractor 3: Computational complexity, data security concerns, and regulatory issues
+
+---
+
+#### Why should one be cautious and verify information generated by AI?
+- **Correct Answer**: AI can produce information that seems credible but is actually false
+- Distractor 1: AI lacks precision and dependability in generating technical information
+- Distractor 2: AI is known for generating misleading hallucinations
+- Distractor 3: AI raises concerns over data privacy and content ownership
+
+---
+
+#### What is generally true about the outputs from AI?
+- **Correct Answer**: Outputs may be convincing but not necessarily accurate
+- Distractor 1: Outputs can generally be trusted for their accuracy
+- Distractor 2: Outputs will always replicate for the same input data
+- Distractor 3: Outputs are not influenced by the quality of training data
+
+---
+
+#### What is a "hallucination" in the context of generative AI?
+- **Correct Answer**: Generating content that appears valid but is factually incorrect
+- Distractor 1: AI's ability to unearth information that is otherwise hard to find
+- Distractor 2: AI's process of pattern recognition and novel combinations
+- Distractor 3: AI's lack of fundamental world knowledge
+
+---
+
+#### What is the "black box" phenomenon in AI?
+- **Correct Answer**: AI provides a result without detailing the underlying process
+- Distractor 1: The use of AI in aviation black boxes for data tracking
+- Distractor 2: Data that should not be used in algorithms but exists
+- Distractor 3: Intentionally ambiguous AI outcomes
+
+---
+
+#### What's a method for corporations to adopt ethical AI practices?
+- **Correct Answer**: Being transparent about AI methodologies in public disclosures
+- Distractor 1: Limiting AI use to only essential cases
+- Distractor 2: Solely using proprietary machine learning algorithms
+- Distractor 3: Sharing data across different corporations
+
+---
+
+#### What is algorithmic bias in the context of machine learning?
+- **Correct Answer**: A machine learning model that perpetuates existing data inequalities
+- Distractor 1: A machine learning model that is perfectly accurate
+- Distractor 2: A machine learning model that requires human intervention
+- Distractor 3: A machine learning model that refines its algorithms over time
+
+---
+
+#### What is a "deepfake" in the realm of AI?
+- **Correct Answer**: A technique for altering media to create realistic but fake videos or images
+- Distractor 1: A hypothetical AI model capable of human-like reasoning
+- Distractor 2: A neural network employing deep learning for data processing
+- Distractor 3: A method in AI for generating human-like chat responses
+
+---
+
+#### What are AI-manipulated media designed to deceive or disseminate false information called?
+- **Correct Answer**: Deepfakes
+- Distractor 1: Algorithmic Bias
+- Distractor 2: Neural Network Manipulation
+- Distractor 3: Vision Algorithms
+
+---
+
+#### What term describes unintentional bias that can occur in AI systems?
+- **Correct Answer**: Algorithmic Bias
+- Distractor 1: Ethical Dilemmas
+- Distractor 2: Responsible AI
+- Distractor 3: Deepfakes
+
+---
+
+#### How can clichés about artificial intelligence be valuable?
+-
+
+ **Correct Answer**: They serve as a conversation starter for discussing AI
+- Distractor 1: They lay the groundwork for opposing views on AI
+- Distractor 2: They accurately depict AI capabilities
+- Distractor 3: They offer a shallow understanding of AI
+
+---
+
+#### Which AI technology would a municipal utility service likely employ for predictive analytics based on large datasets?
+- **Correct Answer**: Machine Learning
+- Distractor 1: Specialized AI
+- Distractor 2: Expansive AI
+- Distractor 3: Regression Techniques
+
+---
+
+#### Why has AI gained increasing relevance?
+- **Correct Answer**: Due to a surge in practical applications across various public sectors
+- Distractor 1: Because of a rise in AI-centric films sparking interest
+- Distractor 2: Because AI tech is increasingly automating the workforce
+- Distractor 3: Because AI tech has become too intricate for humans to handle
+
+---
+
+#### How can someone attain a meaningful understanding of AI?
+- **Correct Answer**: By considering AI as "intelligence" without the qualifier "artificial"
+- Distractor 1: By enrolling in an exhaustive course on the subject
+- Distractor 2: By immersing themselves entirely in AI technology
+- Distractor 3: By conducting interviews with data science experts
+
+---
+
+#### What does the phrase "AI winter" denote?
+- **Correct Answer**: A period when interest and funding in AI dramatically waned
+- Distractor 1: A belief that AI tech should be stored in cold environments
+- Distractor 2: A time when AI was developed only during winter months
+- Distractor 3: A testing phase for AI under extreme cold conditions
+
+---
+
+#### Why do some organizations shy away from using the term "AI"?
+- **Correct Answer**: Due to the historical cycles of "AI winters"
+- Distractor 1: For fear that people may not understand what AI means
+- Distractor 2: Because the term AI is considered archaic
+- Distractor 3: Because different industries prefer their own jargon
+
+---
+
+#### What does "weak AI" signify?
+- **Correct Answer**: AI that excels at one particular task beyond human capabilities
+- Distractor 1: Energy-efficient AI
+- Distractor 2: Early-stage AI technology
+- Distractor 3: AI with multiple minor skills that surpass human abilities
+
+---
+
+#### What's another name for "narrow AI"?
+- **Correct Answer**: Weak AI
+- Distractor 1: General AI
+- Distractor 2: Strong AI
+- Distractor 3: Fully Capable AI
+
+---
+
+#### How do data scientists generally develop narrow AI?
+- **Correct Answer**: Using Machine Learning
+- Distractor 1: With limited instruments
+- Distractor 2: On a shoestring budget
+- Distractor 3: With substantial investor backing
+
+---
+
+#### How does a machine learning training model function?
+- **Correct Answer**: It accumulates a large set of examples, both correct and incorrect, for a given objective
+- Distractor 1: It collects data from a single source to build a set of correct and incorrect examples
+- Distractor 2: It uses community feedback to source valid examples
+- Distractor 3: It leverages online resources to identify right and wrong examples
+
+---
+
+#### What kind of prediction would a regression algorithm typically make?
+- **Correct Answer**: The number of subscriptions expected next quarter
+- Distractor 1: Identifying a repeat customer
+- Distractor 2: Determining if an email is spam
+- Distractor 3: Identifying objects in an image
+
+---
+
+#### What layers constitute a Deep Neural Network (DNN)?
+- **Correct Answer**: Input, multiple hidden layers, and output
+- Distractor 1: Input, a single hidden layer, and output
+- Distractor 2: Input and Output layers only
+- Distractor 3: Only the input layer
+
+---
+
+#### Which two aspects of natural language processing facilitate human interaction?
+- **Correct Answer**: Generation and comprehension
+- Distractor 1: Filtering and generation
+- Distractor 2: Understanding and evaluation
+- Distractor 3: Evaluation and generation
+
+---
+
+#### What advantage do cloud service providers offer with their AI services?
+- **Correct Answer**: A pay-as-you-use pricing model
+- Distractor 1: A pay-everything upfront plan
+- Distractor 2: Physical hardware servers
+- Distractor 3: Manual data security services
+
+---
+
+#### Who has been the biggest enabler of the AI boom?
+- **Correct Answer**: Major commercial cloud service providers
+- Distractor 1: The safety and healthcare sectors
+- Distractor 2: The hospitality industry
+- Distractor 3: The financial sector
+
+---
+
+#### What's the most commonly used programming language in AI?
+- **Correct Answer**: Python
+- Distractor 1: PHP
+- Distractor 2: C++
+- Distractor 3: Javascript
+
+---
+
+#### What is a typical example of a deepfake in AI?
+- **Correct Answer**: A video where a person's face or words are convincingly altered
+- Distractor 1: A covert audit of a company's algorithms
+- Distractor 2: When AI clichés are overemphasized
+- Distractor 3: When all data in an algorithm is fabricated
+
+---
+
+#### What does "explainable AI" mean?
+- **Correct Answer**: Translating data outcomes into language understandable by humans
+- Distractor 1: Using outcomes from black-box AI
+- Distractor 2: Translating outcomes into computer-only language
+- Distractor 3: Explaining how the algorithm functions using the data
